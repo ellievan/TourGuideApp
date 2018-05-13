@@ -1,0 +1,63 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    </style>
+
+    <style name="MainPageHeader">
+        <item name="android:textSize">30dp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingTop">2dp</item>
+        <item name="android:paddingBottom">2dp</item>
+    </style>
+
+    <style name="ActivityButtonLeft">
+        <item name="android:layout_marginLeft">10dp</item>
+        <item name="android:layout_marginRight">3dp</item>
+        <item name="android:layout_marginTop">6dp</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+
+    <style name="ActivityButtonRight">
+        <item name="android:layout_marginLeft">3dp</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:layout_marginTop">6dp</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+
+    <style name="imageStyle">
+        <item name="android:padding">10dp</item>
+    </style>
+
+    <style name="imageTextStyle">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+
+    <style name="navBarStyle">
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingBottom">5dp</item>
+    </style>
+
+    <style name="listItemStyle">
+        <item name="android:paddingTop">3dp</item>
+        <item name="android:paddingLeft">3dp</item>
+    </style>
+
+    <style name="imageTextStyleLand">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:layout_gravity">center_vertical</item>
+    </style>
+
+    <style name="buttonLand">
+        <item name="android:layout_marginBottom">5dp</item>
+    </style>
+
+
+
+</resources>

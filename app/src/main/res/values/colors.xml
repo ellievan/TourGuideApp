@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="headerOrange">#FFC400</color>
+    <color name="eventsColor">#BBDEFB</color>
+    <color name="foodColor">#8BC34A</color>
+    <color name="attractionsColor">#FFF176</color>
+    <color name="shopsColor">#FFAB91</color>
+    <color name="adapterBackground">#EEEEEE</color>
+</resources>

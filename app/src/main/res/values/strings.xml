@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">TourGuideApp.1</string>
+    <string name="header">Brighton &amp; Hove</string>
+    <string name="attractions">Attractions</string>
+    <string name="food">Food</string>
+    <string name="shops">Shops</string>
+    <string name="events">Events</string>
+    <string name="attraction_pavilion">Brighton Pavilion</string>
+    <string name="attraction_pavilion_address">4 Pavilion Buildings, Brighton</string>
+    <string name="attraction_pier">Brighton Pier</string>
+    <string name="attraction_pier_address">Madeira Dr, Brighton, Brighton</string>
+    <string name="attraction_i360">i360</string>
+    <string name="attraction_i360_address">Lower Kings Road, Brighton</string>
+    <string name="attraction_gallery">Brighton Art Gallery</string>
+    <string name="attraction_gallery_address">Pavilion Gardens, Brighton</string>
+    <string name="attraction_museum">Brighton Toy Museum</string>
+    <string name="attraction_museum_address">55 Trafalgar Street, Brighton</string>
+    <string name="event_ride">Naked Bike Ride</string>
+    <string name="event_ride_date">25 June</string>
+    <string name="event_ladyboys">The Ladyboys of Bangkok</string>
+    <string name="event_ladyboys_date">April - September</string>
+    <string name="event_pride">Brighton Pride</string>
+    <string name="event_pride_date">25 August</string>
+    <string name="event_colorrun">Color Run</string>
+    <string name="event_colorrun_date">13 September</string>
+    <string name="event_marathon">Brighton Marathon</string>
+    <string name="event_marathon_date">10 April</string>
+    <string name="food_forfriends">Food For Friends</string>
+    <string name="food_forfriends_address">7 &#8211; 18 Prince Albert St, Brighton</string>
+    <string name="food_lachoza">La Choza</string>
+    <string name="food_lachoza_address">Gloucester Rd, Brighton</string>
+    <string name="food_terre">Terre A Terre</string>
+    <string name="food_terre_address">12 &#8211; 10, 71 East Street, Brighton</string>
+    <string name="food_cabaret">Proud Cabaret</string>
+    <string name="food_cabaret_address">20 &#8211; 23, 83 St George Road, Brighton</string>
+    <string name="food_lion">The Lion &amp; Lobster</string>
+    <string name="food_lion_address">24 Sillwood St, Brighton</string>
+    <string name="shops_churchill">Churchill Square</string>
+    <string name="shops_churchill_address">Russell Pl, Brighton</string>
+    <string name="shops_nlanes">North Lanes</string>
+    <string name="shops_nlanes_address">North Rd, Brighton</string>
+    <string name="shops_slanes">South Lanes</string>
+    <string name="shops_slanes_address">14 East St, Brighton</string>
+    <string name="shops_marina">Marina Centre</string>
+    <string name="shops_marina_address">Brighton Marina, Brighton</string>
+
+</resources>
